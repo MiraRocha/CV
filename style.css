@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+img.foto-perfil {
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black;
+
+}
+
+body {
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
